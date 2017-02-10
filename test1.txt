@@ -1,3 +1,7 @@
 testing git
 
 I edit it in github
+
+I edit it locally
+
+I edit it locally(after checkout to local master_newbranch from remote)
